@@ -1,3 +1,3 @@
 # lojavirtual
 
-Texto Alterado
+Texto Alterado (2)
